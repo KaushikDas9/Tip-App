@@ -179,7 +179,7 @@ fun MainCard():Int {
                 Row (modifier = Modifier.fillMaxWidth(1f),
                     horizontalArrangement = Arrangement.Center,
                 ) {
-                    //DECRESER (-) (dsknmks)
+                    //DECRESER (-) ()jdnjfdn
                     Card(
                         modifier = Modifier.size(25.dp),
                         shape = RoundedCornerShape(50.dp),
